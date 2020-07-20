@@ -1,523 +1,524 @@
 {
-    "carousel":[
+  "carousel": [
+    {
+      "id": 1,
+      "img": "house-675.webp",
+      "caption": [
         {
-            "id":1,
-            "img":"house-675.webp",
-            "caption":[
-                {
-                    "id":1,
-                    "title":"Hire the best freelancers for any job, online.",
-                    "description":"Millions of people use freelancer.com to turn their ideas into reality.",
-                    "btns":[
-                        {
-                            "id":1,
-                            "title":"Hire a Freelancer",
-                            "btnClass":"carousel-btn-1"
-                        },
-                        {
-                            "id":2,
-                            "title":"Earn Money Freelancing",
-                            "btnClass":"carousel-btn-2"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id":2,
-            "img":"magazine-675.jpg"
-        },
-        {
-            "id":3,
-            "img":"mobile-phone-675.jpg"
-        },
-        {
-            "id":4,
-            "img":"nasa-675.jpg"
+          "id": 1,
+          "title": "Hire the best freelancers for any job, online.",
+          "description": "Millions of people use freelancer.com to turn their ideas into reality.",
+          "btns": [
+            {
+              "id": 1,
+              "title": "Hire a Freelancer",
+              "btnClass": "carousel-btn-1"
+            },
+            {
+              "id": 2,
+              "title": "Earn Money Freelancing",
+              "btnClass": "carousel-btn-2"
+            }
+          ]
         }
-    ],
-    "AsUsedBy":[
-        {
-            "id":"1",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/microsoft.svg",
-            "alt":"Microsoft"
-        },
-        {
-            "id":"2",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/sap.svg",
-            "alt":"SAP"
-        },
-        {
-            "id":"3",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/metlife.svg",
-            "alt":"Met life"
-        },
-        {
-            "id":"4",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/intel.svg",
-            "alt":"Intel"
-        },
-        {
-            "id":"5",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/boeing.svg",
-            "alt":"Boeing"
-        },
-        {
-            "id":"6",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/avery-dennison.svg",
-            "alt":"Avery Dennison"
-        },
-        {
-            "id":"7",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/pwc.svg",
-            "alt":"PWC"
-        },
-        {
-            "id":"8",
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/companies/ge.svg",
-            "alt":"GE"
-        }
-    ],
-    "NeedWorkDone":[
-        {
-            "id":1,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/post-a-job.svg",
-            "alt":"Post a Job",
-            "description":"It's easy. Simply post a job you need completed and receive competitive bids from freelancers within minutes"
-        },
-        {
-            "id":2,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/choose-freelancers.svg",
-            "alt":"Choose Freelancer",
-            "description":"Whatever your needs, there will be a freelancer to get it done: from web design, mobile app development, virtual assistants, product manufacturing, and graphic design (and a whole lot more)."
-        },
-        {
-            "id":3,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/pay-safely.svg",
-            "alt":"Pay safety",
-            "description":"With secure payments and thousands of reviewed professionals to choose from, Freelancer.com is the simplest and safest way to get work done online."
-        }
-    ],
-    "WhatGreatAboutIt":[
-        {
-            "id":1,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/browse-portfolios.svg",
-            "title":"Browse Portfolios",
-            "description":"Find professionals you can trust by browsing their samples of previous work and reading their profile reviews."
-        },
-        {
-            "id":2,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/view-bids.svg",
-            "title":"View bid",
-            "description":"Receive free bids from our talented freelancers within seconds."
-        },
-        {
-            "id":3,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/live-chat.svg",
-            "title":"Live chat",
-            "description":"FYou can live chat with your freelancers to get constant updates on the progress of your work."
-        },
-        {
-            "id":4,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/pay.svg",
-            "title":"Pay for quality",
-            "description":"Pay for work when it has been completed and you're 100% satisfied."
-        },
-        {
-            "id":5,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/track-progress.svg",
-            "title":"Track progress",
-            "description":"Keep up-to-date and on-the-go with our time tracker, and mobile app.."
-        },
-        {
-            "id":6,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/benefits/support.svg",
-            "title":"24/7 support",
-            "description":"We're always here to help. Our support consists of real people who are available 24/7."
-        }
-    ],
-    "CrowdFavorite":[
-        {
-            "id":1,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/website-development.png",
-            "title":"Website Development",
-            "price":"From $300 USD"
-        },
-        {
-            "id":2,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/graphic-design.png",
-            "title":"Graphic Design",
-            "price":"From $100 USD"
-        },
-        {
-            "id":3,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/logo-design.png",
-            "title":"Logo Design",
-            "price":"From $50 USD"
-        },
-        {
-            "id":4,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/marketing.png",
-            "title":"Marketing",
-            "price":"From $150 USD"
-        },
-        {
-            "id":5,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/writing.png",
-            "title":"Writing",
-            "price":"From $50 USD"
-        },
-        {
-            "id":6,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/mobile-app.png",
-            "title":"Mobile App",
-            "price":"From $300 USD / hour"
-        }
-    ],
-    "GetWorkDone":[
-        {
-            "id":1,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-php.svg",
-            "title":"PHP"
-        },
-        {
-            "id":2,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-website-design.svg",
-            "title":"Website Design"
-        },
-        {
-            "id":3,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-graphic-design.svg",
-            "title":"Graphic Design"
-        },
-        {
-            "id":4,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-mobile-apps.svg",
-            "title":"moMobile Apps"
-        },
-        {
-            "id":5,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-php.svg",
-            "title":"Android"
-        },
-        {
-            "id":6,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-iphone-apps.svg",
-            "title":"Iphone Apps"
-        },
-        {
-            "id":7,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-photoshop.svg",
-            "title":"PhotoShop"
-        },
-        {
-            "id":8,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-logo-design.svg",
-            "title":"Logo Design"
-        },
-        {
-            "id":9,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-article-writing.svg",
-            "title":"Article Writing",
-            "catClass":"hide-sm"
-        },
-        {
-            "id":10,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-data-entry.svg",
-            "title":"Data Entry",
-            "catClass":"hide-sm"
-        },
-        {
-            "id":11,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-internet-marketing.svg",
-            "title":"Internet Marketing",
-            "catClass":"hide-sm"
-        },
-        {
-            "id":12,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-seo.svg",
-            "title":"SEO",
-            "catClass":"hide-md"
-        },
-        {
-            "id":13,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-3d-modeling.svg",
-            "title":"3D Modeling",
-            "catClass":"hide-md"
-        },
-        {
-            "id":14,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-copy-writing.svg",
-            "title":"Copywriting",
-            "catClass":"hide-md"
-        },
-        {
-            "id":15,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-ghost-writing.svg",
-            "title":"Ghostwriting",
-            "catClass":"hide-md"
-        },
-        {
-            "id":16,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-linux.svg",
-            "title":"Linux",
-            "catClass":"hide-md"
-        },
-        {
-            "id":17,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-aws.svg",
-            "title":"Amazing Web Server",
-            "catClass":"hide-md"
-        },
-        {
-            "id":18,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-banner-design.svg",
-            "title":"Banner Design",
-            "catClass":"hide-md"
-        },
-        {
-            "id":19,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-software-dev.svg",
-            "title":"Software Development",
-            "catClass":"hide-md"
-        },
-        {
-            "id":20,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-accounting.svg",
-            "title":"Accounting",
-            "catClass":"hide-md"
-        },
-        {
-            "id":21,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-finance.svg",
-            "title":"Finance",
-            "catClass":"hide-md"
-        },
-        {
-            "id":22,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-legal.svg",
-            "title":"Legal",
-            "catClass":"hide-md"
-        },
-        {
-            "id":23,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-manufacturing.svg",
-            "title":"Manufacturing",
-            "catClass":"hide-md"
-        },
-        {
-            "id":24,
-            "img":"https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-logistics.svg",
-            "title":"Logistics",
-            "catClass":"hide-md"
-        }
-    ],
-    "Api-Enterprise":[
-        {
-            "id":1,
-            "Class":"api",
-            "title":"FREELANCER API",
-            "header":"43 million professionals on demand",
-            "description":"Why hire people when you can simply integrate our talented cloud workforce instead?",
-            "btn":"view documentation"
-        },
-        {
-            "id":2,
-            "Class":"enterprise",
-            "title":"FREELANCER ENTERPRISE",
-            "header":"Company budget? Get more done for less",
-            "description":"Use our workforce of 43 million to help your business achieve more.",
-            "btn":"contact us"
-        }
-    ],
-    "TopJobsCategories":[
-        {
-            "id":1,
-            "title":"PHP"
-        },
-        {
-            "id":2,
-            "title":"Graphic Design"
-        },
-        {
-            "id":3,
-            "title":"Website Design"
-        },
-        {
-            "id":4,
-            "title":"Logo Design"
-        },
-        {
-            "id":5,
-            "title":"PhotoShop"
-        },
-        {
-            "id":6,
-            "title":"WordPress"
-        },
-        {
-            "id":7,
-            "title":"Article Writing"
-        },
-        {
-            "id":8,
-            "title":"Javascript"
-        },
-        {
-            "id":9,
-            "title":"Mobile App Development"
-        },
-        {
-            "id":10,
-            "title":"Software Architecture"
-        },
-        {
-            "id":11,
-            "title":"Data Entry"
-        },
-        {
-            "id":12,
-            "title":"Android"
-        },
-        {
-            "id":13,
-            "title":"Excel"
-        },
-        {
-            "id":14,
-            "title":"CSS"
-        },
-        {
-            "id":15,
-            "title":"HTML5"
-        },
-        {
-            "id":16,
-            "title":"Internet Marketing"
-        },
-        {
-            "id":17,
-            "title":"Copywriting"
-        },
-        {
-            "id":18,
-            "title":"SEO"
-        },
-        {
-            "id":19,
-            "title":"iPhone"
-        },
-        {
-            "id":20,
-            "title":"Research Writing"
-        },
-        {
-            "id":21,
-            "title":"Translation"
-        },
-        {
-            "id":22,
-            "title":"Java"
-        },
-        {
-            "id":23,
-            "title":"MySQL"
-        },
-        {
-            "id":24,
-            "title":"Ghostwriting"
-        },
-        {
-            "id":25,
-            "title":"Marketing"
-        },
-        {
-            "id":26,
-            "title":"Data Processing"
-        },
-        {
-            "id":27,
-            "title":"Technical Writing"
-        },
-        {
-            "id":28,
-            "title":"Python"
-        },
-        {
-            "id":29,
-            "title":"Social Media Marketing"
-        },
-        {
-            "id":30,
-            "title":"Research"
-        },
-        {
-            "id":31,
-            "title":"Link Building"
-        },
-        {
-            "id":32,
-            "title":"C# Programming"
-        },
-        {
-            "id":33,
-            "title":"3D Modelling"
-        },
-        {
-            "id":34,
-            "title":"Web Search"
-        },
-        {
-            "id":35,
-            "title":"Web Search"
-        },
-        {
-            "id":36,
-            "title":"Web Scraping"
-        },
-        {
-            "id":37,
-            "title":"3D Rendering"
-        },
-        {
-            "id":38,
-            "title":"Linux"
-        },
-        {
-            "id":39,
-            "title":"Video Services"
-        },
-        {
-            "id":40,
-            "title":"C++ Programming"
-        },
-        {
-            "id":41,
-            "title":"eCommerce"
-        },
-        {
-            "id":42,
-            "title":"Banner Design"
-        },
-        {
-            "id":43,
-            "title":"PIllustrationHP"
-        },
-        {
-            "id":44,
-            "title":"Proofreading"
-        },
-        {
-            "id":45,
-            "title":"3D Animation"
-        },
-        {
-            "id":46,
-            "title":"Content Writing"
-        },
-        {
-            "id":47,
-            "title":"See All"
-        }
-    ]
-}
+      ]
+    },
+    {
+      "id": 2,
+      "img": "magazine-675.jpg"
+    },
+    {
+      "id": 3,
+      "img": "mobile-phone-675.jpg"
+    },
+    {
+      "id": 4,
+      "img": "nasa-675.jpg"
+    }
+  ],
+  "AsUsedBy": [
+    {
+  "id": "1",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/microsoft.svg",
+  "alt": "Microsoft"
+  },
+  {
+  "id": "2",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/sap.svg",
+  "alt": "SAP"
+  },
+  {
+  "id": "3",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/metlife.svg",
+  "alt": "Met life"
+  },
+  {
+  "id": "4",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/intel.svg",
+  "alt": "Intel"
+  },
+  {
+  "id": "5",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/boeing.svg",
+  "alt": "Boeing"
+  },
+  {
+  "id": "6",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/avery-dennison.svg",
+  "alt": "Avery Dennison"
+  },
+  {
+  "id": "7",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/pwc.svg",
+  "alt": "PWC"
+    },
+  {
+  "id": "8",
+  "img": "https://www.f-cdn.com/assets/main/en/assets/home/companies/ge.svg",
+  "alt": "GE"
+  } 
+  ],
+"NeedWorkDone": [
+  {
+    "id": 1,
+    "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/post-a-job.svg",
+    "alt": "Post a Job",
+    "description": "It's easy. Simply post a job you need completed and receive competitive bids from freelancers within minutes"
+  },
+  {
+    "id": 2,
+    "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/choose-freelancers.svg",
+    "alt": "Choose Freelancer",
+    "description": "Whatever your needs, there will be a freelancer to get it done: from web design, mobile app development, virtual assistants, product manufacturing, and graphic design (and a whole lot more)."
+  },
+  {
+    "id": 3,
+    "img":"https://www.f-cdn.com/assets/main/en/assets/home/need-work-done/pay-safely.svg",
+    "alt": "Pay safety",
+    "description": "With secure payments and thousands of reviewed professionals to choose from, Freelancer.com is the simplest and safest way to get work done online."
+  }
+  ],
+"WhatGreatAboutIt": [
+    {
+      "id": 1,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/browse-portfolios.svg",
+      "title": "Browse Portfolios",
+      "description": "Find professionals you can trust by browsing their samples of previous work and reading their profile reviews."
+    },
+    {
+      "id": 2,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/view-bids.svg",
+      "title": "View bid",
+      "description": "Receive free bids from our talented freelancers within seconds."
+    },
+    {
+      "id": 3,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/live-chat.svg",
+      "title": "Live chat",
+      "description": "FYou can live chat with your freelancers to get constant updates on the progress of your work."
+    },
+    {
+      "id": 4,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/pay.svg",
+      "title": "Pay for quality",
+      "description": "Pay for work when it has been completed and you're 100% satisfied."
+    },
+    {
+      "id": 5,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/track-progress.svg",
+      "title": "Track progress",
+      "description": "Keep up-to-date and on-the-go with our time tracker, and mobile app.."
+    },
+    {
+      "id": 6,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/benefits/support.svg",
+      "title": "24/7 support",
+      "description": "We're always here to help. Our support consists of real people who are available 24/7."
+    }
+  ],
+  "CrowdFavorite": [
+    {
+      "id": 1,
+      "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/website-development.png",
+      "title": "Website Development",
+      "price": "From $300 USD"
+    },
+    {
+      "id": 2,
+      "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/graphic-design.png",
+      "title": "Graphic Design",
+      "price": "From $100 USD"
+    },
+    {
+      "id": 3,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/showcase/logo-design.png",
+      "title": "Logo Design",
+      "price": "From $50 USD"
+    },
+    {
+      "id": 4,
+      "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/marketing.png",
+      "title": "Marketing",
+      "price": "From $150 USD"
+    },
+    {
+      "id": 5,
+      "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/writing.png",
+      "title": "Writing",
+      "price": "From $50 USD"
+    },
+    {
+      "id": 6,
+      "img":"https://www.f-cdn.com/assets/main/en/assets/home/showcase/mobile-app.png",
+      "title": "Mobile App",
+      "price": "From $300 USD / hour"
+    }
+  ],
+  "GetWorkDone": [
+    {
+      "id": 1,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-php.svg",
+      "title": "PHP"
+    },
+    {
+      "id": 2,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-website-design.svg",
+      "title": "Website Design"
+    },
+    {
+      "id": 3,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-graphic-design.svg",
+      "title": "Graphic Design"
+    },
+    {
+      "id": 4,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-mobile-apps.svg",
+      "title": "moMobile Apps"
+    },
+    {
+      "id": 5,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-php.svg",
+      "title": "Android"
+    },
+    {
+      "id": 6,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-iphone-apps.svg",
+      "title": "Iphone Apps"
+    },
+    {
+      "id": 7,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-photoshop.svg",
+      "title": "PhotoShop"
+    },
+    {
+      "id": 8,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-logo-design.svg",
+      "title": "Logo Design"
+    },
+    {
+      "id": 9,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-article-writing.svg",
+      "title": "Article Writing",
+      "catClass": "hide-sm"
+    },
+    {
+      "id": 10,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-data-entry.svg",
+      "title": "Data Entry",
+      "catClass": "hide-sm"
+    },
+    {
+      "id": 11,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-internet-marketing.svg",
+      "title": "Internet Marketing",
+      "catClass": "hide-sm"
+    },
+    {
+      "id": 12,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-seo.svg",
+      "title": "SEO",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 13,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-3d-modeling.svg",
+      "title": "3D Modeling",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 14,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-copy-writing.svg",
+      "title": "Copywriting",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 15,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-ghost-writing.svg",
+      "title": "Ghostwriting",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 16,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-linux.svg",
+      "title": "Linux",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 17,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-aws.svg",
+      "title": "Amazing Web Server",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 18,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-banner-design.svg",
+      "title": "Banner Design",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 19,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-software-dev.svg",
+      "title": "Software Development",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 20,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-accounting.svg",
+      "title": "Accounting",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 21,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-finance.svg",
+      "title": "Finance",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 22,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-legal.svg",
+      "title": "Legal",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 23,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-manufacturing.svg",
+      "title": "Manufacturing",
+      "catClass": "hide-md"
+    },
+    {
+      "id": 24,
+      "img": "https://www.f-cdn.com/assets/main/en/assets/home/hire-categories/hire-logistics.svg",
+      "title": "Logistics",
+      "catClass": "hide-md"
+    }
+  ],
+  "Api-Enterprise":[
+    {
+      "id": 1,
+      "Class": "api",
+      "title": "FREELANCER API",
+      "header": "43 million professionals on demand",
+      "description": "Why hire people when you can simply integrate our talented cloud workforce instead?",
+      "btn": "view documentation"
+    },
+    {
+      "id": 2,
+      "Class": "enterprise",
+      "title": "FREELANCER ENTERPRISE",
+      "header": "Company budget? Get more done for less",
+      "description": "Use our workforce of 43 million to help your business achieve more.",
+      "btn": "contact us"
+    }
+  ],
+  "TopJobsCategories": 
+  [
+    {
+      "id": 1,
+      "title": "PHP"
+    },
+    {
+      "id": 2,
+      "title": "Graphic Design"
+    },
+    {
+      "id": 3,
+      "title": "Website Design"
+    },
+    {
+      "id": 4,
+      "title": "Logo Design"
+    },
+    {
+      "id": 5,
+      "title": "PhotoShop"
+    },
+    {
+      "id": 6,
+      "title": "WordPress"
+    },
+    {
+      "id": 7,
+      "title": "Article Writing"
+    },
+    {
+      "id": 8,
+      "title": "Javascript"
+    },
+    {
+      "id": 9,
+      "title": "Mobile App Development"
+    },
+    {
+      "id": 10,
+      "title": "Software Architecture"
+    },
+    {
+      "id": 11,
+      "title": "Data Entry"
+    },
+    {
+      "id": 12,
+      "title": "Android"
+    },
+    {
+      "id": 13,
+      "title": "Excel"
+    },
+    {
+      "id": 14,
+      "title": "CSS"
+    },
+    {
+      "id": 15,
+      "title": "HTML5"
+    },
+    {
+      "id": 16,
+      "title": "Internet Marketing"
+    },
+    {
+      "id": 17,
+      "title": "Copywriting"
+    },
+    {
+      "id": 18,
+      "title": "SEO"
+    },
+    {
+      "id": 19,
+      "title": "iPhone"
+    },
+    {
+      "id": 20,
+      "title": "Research Writing"
+    },
+    {
+      "id": 21,
+      "title": "Translation"
+    },
+    {
+      "id": 22,
+      "title": "Java"
+    },
+    {
+      "id": 23,
+      "title": "MySQL"
+    },
+    {
+      "id": 24,
+      "title": "Ghostwriting"
+    },
+    {
+      "id": 25,
+      "title": "Marketing"
+    },
+    {
+      "id": 26,
+      "title": "Data Processing"
+    },
+    {
+      "id": 27,
+      "title": "Technical Writing"
+    },
+    {
+      "id": 28,
+      "title": "Python"
+    },
+    {
+      "id": 29,
+      "title": "Social Media Marketing"
+    },
+    {
+      "id": 30,
+      "title": "Research"
+    },
+    {
+      "id": 31,
+      "title": "Link Building"
+    },
+    {
+      "id": 32,
+      "title": "C# Programming"
+    },
+    {
+      "id": 33,
+      "title": "3D Modelling"
+    },
+    {
+      "id": 34,
+      "title": "Web Search"
+    },
+    {
+      "id": 35,
+      "title": "Web Search"
+    },
+    {
+      "id": 36,
+      "title": "Web Scraping"
+    },
+    {
+      "id": 37,
+      "title": "3D Rendering"
+    },
+    {
+      "id": 38,
+      "title": "Linux"
+    },
+    {
+      "id": 39,
+      "title": "Video Services"
+    },
+    {
+      "id": 40,
+      "title": "C++ Programming"
+    },
+    {
+      "id": 41,
+      "title": "eCommerce"
+    },
+    {
+      "id": 42,
+      "title": "Banner Design"
+    },
+    {
+      "id": 43,
+      "title": "PIllustrationHP"
+    },
+    {
+      "id": 44,
+      "title": "Proofreading"
+    },
+    {
+      "id": 45,
+      "title": "3D Animation"
+    },
+    {
+      "id": 46,
+      "title": "Content Writing"
+    },
+    {
+      "id": 47,
+      "title": "See All"
+    }
+  ]
+  }
